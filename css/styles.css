@@ -1,0 +1,49 @@
+/* Tag Selectors Section */
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+img {
+    border-radius: 1.0rem;
+    -webkit-border-radius: 1.0rem;
+    -moz-border-radius: 1.0rem;
+    -ms-border-radius: 1.0rem;
+    -o-border-radius: 1.0rem;
+    width: 300px;
+}
+
+h1 {
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.365rem;
+}
+
+p {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
+
+/* Class Selectors Section */
+
+.middle-section {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1.0rem;
+    -webkit-border-radius: 1.0rem;
+    -moz-border-radius: 1.0rem;
+    -ms-border-radius: 1.0rem;
+    -o-border-radius: 1.0rem;
+    padding: 10px;
+    height: 480px;
+    width: 300px;
+    margin: 100px auto 100px auto;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: hsl(228, 45%, 44%);
+}
+
