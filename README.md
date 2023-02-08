@@ -16,7 +16,7 @@ I thought that the project was challenging for me cause I'm a begginer, but I th
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: [https://arturpaschoal.github.io/qr-code-challenge/]
 
 
 ### Built with
