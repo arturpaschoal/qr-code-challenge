@@ -45,5 +45,7 @@ p {
 .footer-link {
     text-decoration: none;
     color: hsl(228, 45%, 44%);
+    position: relative;
+    bottom: 10px;
 }
 
